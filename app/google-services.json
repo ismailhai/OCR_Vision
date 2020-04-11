@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345374087435",
+    "firebase_url": "https://ocrvision-6b2db.firebaseio.com",
+    "project_id": "ocrvision-6b2db",
+    "storage_bucket": "ocrvision-6b2db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345374087435:android:d5d5113bcbbedfb378ea0e",
+        "android_client_info": {
+          "package_name": "com.ismail_houari.ocr_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345374087435-ofj4ma41gol9jv7lu1im0jdif5l6ku5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ismail_houari.ocr_vision",
+            "certificate_hash": "e5c3e0c83564bf5b4d94c86f1dd0d8bcbe61f27c"
+          }
+        },
+        {
+          "client_id": "345374087435-584ajepbjhpt9har32sek4c6qsht4kmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAIsVZuFgt1D8xxKzznkexC1QVuicZ46U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345374087435-584ajepbjhpt9har32sek4c6qsht4kmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
